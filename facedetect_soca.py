@@ -1,4 +1,4 @@
-#Code written/edited by SOCA-research (c) 2015
+#Code was written/edited by SOCA-research (c) 2015
 #This code was mostly taken from OpenCV python2 sample code
 #!/usr/bin/env python
 
