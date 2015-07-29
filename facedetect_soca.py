@@ -59,5 +59,4 @@ if __name__ == '__main__':
 
     cv2.imshow('facedetect', vis)
 
-    if 0xFF & cv2.waitKey(5) == 27:
-        cv2.destroyAllWindows()
+    cv2.waitKey(0)
